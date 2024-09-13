@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👨🏻‍💻 Skills
 
-<!--
-**amnersaucedososa/amnersaucedososa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,svelte,bootstrap,figma,tailwind)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nestjs,mongodb,nodejs,postman)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CI/CD & Deployment
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,github,vercel)](https://skillicons.dev)
+
+### IDE
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)](https://skillicons.dev)
+
+### Package managers
+[![My Skills](https://skillicons.dev/icons?i=pnpm,npm,yarn)](https://skillicons.dev)
+
+### Other languages and technologies
+[![My Skills](https://skillicons.dev/icons?i=py,solidity,notion)](https://skillicons.dev)
+
+## Technical writing
+Welcome to my dev.to little blog: [here](https://www.linkedin.com/in/toritovawebdev/)
+
+### 📫 How to reach me
+
+- [![](https://img.shields.io/badge/LinkedIn-toritova-blue?style=social&logo=linkedin)](linkedin.com/in/amner-a-saucedo-sosa-887986170)
+- [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](mailto:waptoing7@gmail.com)
