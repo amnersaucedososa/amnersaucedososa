@@ -23,5 +23,5 @@ Welcome to my dev.to little blog: [here](https://www.linkedin.com/in/toritovaweb
 
 ### 📫 How to reach me
 
-- [![](https://img.shields.io/badge/LinkedIn-amner-saucedo-sosa-blue?style=social&logo=linkedin)](linkedin.com/in/amner-a-saucedo-sosa-887986170)
+- [![](https://img.shields.io/badge/LinkedIn-toritova-blue?style=social&logo=linkedin)](linkedin.com/in/amner-a-saucedo-sosa-887986170)
 - [![](https://img.shields.io/badge/Email-toriatovawebdev@gmail.com-red?style=social&logo=gmail)](mailto:waptoing7@gmail.com)
