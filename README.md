@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,solidity,notion)](https://skillicons.dev)
 
 ## Technical writing
-Welcome to my dev.to little blog: [here](https://www.linkedin.com/in/toritovawebdev/)
+Welcome to my dev.to little blog: [here](https://www.abisoftgt.net/)
 
 ### 📫 How to reach me
 
